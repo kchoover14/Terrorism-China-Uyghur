@@ -2,11 +2,11 @@
 
 Terrorism in China is widely assumed to be minimal given the reach of the Chinese state -- but GTD incident data from 2010 to 2018 tells a different story. Mapped in QGIS, attacks are not distributed across China's territory; they concentrate in the northwest, in Uyghur-majority regions. The Uyghurs are an indigenous people whose genetic history traces population movement along the Silk Road -- and whose contemporary political status has drawn international attention, with documented state persecution including mass detention, forced labor, and forced assimilation. The spatial pattern in the terrorism data makes visible what aggregate statistics obscure: political violence in China is geographically tied to an ethnic minority under active state suppression.
 
-## Portfolio Page
+### Portfolio Page
 
 The [portfolio page](https://kchoover14.github.io/mapping-conflict-indigenous-china/) includes a full project narrative, key findings, and figures.
 
-## Tools & Technologies
+### Tools & Technologies
 
 **Tools:** QGIS | Web Mercator projection | ESRI Gray (light) basemap
 
@@ -17,11 +17,11 @@ The [portfolio page](https://kchoover14.github.io/mapping-conflict-indigenous-ch
 - CRS: EPSG:3857
 - Min zoom: 0 / Max zoom: 20
 
-## Expertise
+### Expertise
 
 Geospatial visualization of open-source conflict data to surface spatial patterns relevant to indigenous rights, human rights monitoring, and policy analysis.
 
-## License
+### License
 
 - Code and scripts © Kara C. Hoover, licensed under the [MIT License](LICENSE).
 - Data, figures, and written content © Kara C. Hoover, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
